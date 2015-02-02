@@ -6,9 +6,9 @@
     "identity": "loukianova@email.arizona.edu"
   },
   "issuedOn": "2015-02-02T17:57:46.411Z",
-  "badge": "http://badgelab.herokuapp.com/87650/class.json",
+  "badge": "https://raw.githubusercontent.com/loukitzanna/badges/master/class.json",
   "verify": {
     "type": "hosted",
-    "url": "http://badgelab.herokuapp.com/87650/1.json"
+    "url": "https://raw.githubusercontent.com/loukitzanna/badges/master/badges.json"
   }
 }
