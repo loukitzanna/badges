@@ -1,0 +1,14 @@
+{
+  "uid": "87650#1",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "loukianova@email.arizona.edu"
+  },
+  "issuedOn": "2015-02-02T17:57:46.411Z",
+  "badge": "http://badgelab.herokuapp.com/87650/class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "http://badgelab.herokuapp.com/87650/1.json"
+  }
+}
