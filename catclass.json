@@ -2,6 +2,6 @@
   "name": "Cats in Space",
   "description": "You are now a space cat-et",
   "image": "https://badgelab.herokuapp.com/img/spacecat.png",
-  "criteria": "https://raw.githubusercontent.com/loukitzanna/badges/master/criteria.txt",
+  "criteria": "https://raw.githubusercontent.com/loukitzanna/badges/master/cat_criteria.txt",
   "issuer": "https://raw.githubusercontent.com/loukitzanna/badges/master/issuer.json"
 }
