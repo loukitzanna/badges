@@ -1,0 +1,14 @@
+{
+  "uid": "87650#2",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "loukianova@email.arizona.edu"
+  },
+  "issuedOn": "2015-02-04T12:57:46.411Z",
+  "badge": "https://raw.githubusercontent.com/loukitzanna/badges/master/dogclass.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://raw.githubusercontent.com/loukitzanna/badges/master/assert2.json"
+  }
+}
