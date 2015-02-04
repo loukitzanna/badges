@@ -1,7 +1,7 @@
 {
   "name": "Fashion Dog",
   "description": "You're more fashionable than this robot dog!",
-  "image": "https://badgelab.herokuapp.com/img/spacecat.png",
+  "image": "https://raw.githubusercontent.com/loukitzanna/badges/master/fashiondog.png",
   "criteria": "https://raw.githubusercontent.com/loukitzanna/badges/master/cat_criteria.txt",
   "issuer": "https://raw.githubusercontent.com/loukitzanna/badges/master/issuer.json"
 }
