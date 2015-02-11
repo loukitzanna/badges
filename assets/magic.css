@@ -1,8 +1,10 @@
-.error {
+.toast {
     width:200px;
     height:20px;
     height:auto;
-    position:absolute;
+    display: none;
+    /*position:absolute;*/
+    border-left: solid 7px red;
     left:50%;
     margin-left:-100px;
     bottom:10px;
