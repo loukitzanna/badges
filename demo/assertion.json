@@ -1,0 +1,14 @@
+{
+  "uid": "",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": ""
+  },
+  "issuedOn": "2015-02-02T17:57:46.411Z",
+  "badge": "",
+  "verify": {
+    "type": "hosted",
+    "url": ""
+  }
+}
