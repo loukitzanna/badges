@@ -9,6 +9,6 @@
   "badge": "https://raw.githubusercontent.com/loukitzanna/badges/master/catclass.json",
   "verify": {
     "type": "hosted",
-    "url": "https://raw.githubusercontent.com/loukitzanna/badges/master/badges.json"
+    "url": "https://raw.githubusercontent.com/loukitzanna/badges/master/assert1.json"
   }
 }
